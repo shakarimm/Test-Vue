@@ -1,4 +1,4 @@
-# new-test
+# Table with changing inputs 
 
 ## Project setup
 ```
